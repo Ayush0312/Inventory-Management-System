@@ -68,7 +68,7 @@ Replace the placeholder credentials with your MySQL server configuration.
 
 1. **Repository Setup**:
 ```bash
-git clone https://github.com/yourusername/ims-project.git
+git clone https://github.com/Ayush0312/Inventory-Management-System.git
 cd ims-project
 ```
 
